@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ring.aqa.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-07T08:39:23" hostname="Diana.Lazo-Nosovskaya" time="1.087">
+  <properties/>
+  <testcase name="login" classname="com.ring.aqa.LoginTest" time="1.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
