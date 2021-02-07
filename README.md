@@ -3,7 +3,7 @@
 This is a homework for Selenium
 
 ## Selenium assignment
-1. Complete Login test usimg POM and Page Factory
+1. Complete Login test using POM and Page Factory
 
 ## Unit testing
 There are number of different ways to run your unit tests, e.g.:
